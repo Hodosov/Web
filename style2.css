@@ -1,0 +1,17 @@
+.tex{
+    display: block;
+    overflow: auto ;
+    height: 550px;
+    width: 340;
+    background-color: rgb(238, 233, 225);
+}
+p.text::first-letter{
+    font-size: 30px;
+}
+
+.text{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 3px;
+    letter-spacing: 1.5px;
+}
