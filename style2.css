@@ -1,9 +1,9 @@
 .tex{
     display: block;
     overflow: auto ;
+    margin-left: 20px;
     height: 550px;
     width: 340;
-    background-color: rgb(238, 233, 225);
 }
 p.text::first-letter{
     font-size: 30px;

@@ -8,7 +8,7 @@ body{
     display: flex;
     flex-direction: column;
     margin-top: 40px;
-    background-color: blanchedalmond;
+    background-color: #ffffff;
     width: 340px;
     height: 600px;
 }
@@ -20,9 +20,9 @@ body{
     background-size: 340px 550px;
     width: 340px;
     height: 550px;
-    color: white;
+    color: ffffff;
 }
-p{
+.classp{
     margin-left: 30px;
     font-size: 10px;
 }
@@ -40,10 +40,10 @@ h1{
     margin-left: 30px;
     margin-bottom: 30px;
     border-radius: 10%;
-    background-color: ghostwhite;
+    background-color: ffffff;
 }
 .footer{
-    background-color: gainsboro;
+    background-color: #e8e3e3;
     height: 50px;
     display: flex;
     justify-content: space-between;
@@ -52,7 +52,6 @@ h1{
    display: flex;
    justify-content: space-between;
    align-items: center;
-   align-content: center;
    width: 50px;
 }
 .bt{

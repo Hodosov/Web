@@ -1,0 +1,63 @@
+.page3{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    background-color:#ffffff;
+    width: 340px;
+    height: 600px;
+}
+
+.header{
+    display: flex;
+    background-color:#e8e3e3;
+    height: 60px;
+    width: 340px;
+}
+
+.headcomment{
+    display: flex;
+    width: 270px;
+    align-items: center;
+    padding-left: 100px;
+}
+.headclose{
+    display: flex;
+    width: 70px;
+    align-items: center;
+    margin-left: 15px;
+}
+.pg3comment{
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+.pg3container{
+    display: flex;
+    margin-top: 15px;
+    box-shadow: 0px 2px 2px -2px black;
+}
+
+.ava{
+    display: flex;
+    width: 90px;
+    height: 110px;
+    justify-content: center;
+}
+.massage{
+    margin-top: -10px;
+    width: 250px;
+    height: 110px;
+   
+}
+img{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+}
+a{
+    color: lightslategray;
+    margin-left: 10px;
+}
+.headclose:hover{
+    color:#ff0000;
+    cursor: pointer;
